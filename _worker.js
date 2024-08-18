@@ -8,17 +8,25 @@ let proxyIP = '';
 let socks5Address = '';
 
 let addresses = [
-	//当sub为空时启用本地优选域名/优选IP，若不带端口号 TLS默认端口为443，#号后为备注别名
 	'cf.trojan.809098.xyz:443#加入我的频道t.me/AM_CLUBS解锁更多优选节点',
-	'visa.com:443#订阅YouTube频道youtube.com/@AM_CLUB获取更多教程',
-	//'time.is#你可以只放域名 如下',
-	//'www.visa.com.sg',
-	//'skk.moe#也可以放域名带端口 如下',
-	//'www.wto.org:8443',
-	//'www.csgo.com:2087#节点名放在井号之后即可',
-	//'icook.hk#若不带端口号默认端口为443',
-	//'104.17.152.41#IP也可以',
-	//'[2606:4700:e7:25:4b9:f8f8:9bfb:774a]#IPv6也OK',
+	'visa.com:8443#订阅YouTube频道youtube.com/@AM_CLUB获取更多教程',
+	'time.is:2053',
+	'www.visa.com.sg:2083',
+	'skk.moe:2087,
+	'www.wto.org:8443',
+	'www.csgo.com:2087#节点名放在井号之后即可',
+	'icook.hk#若不带端口号默认端口为443',
+	'ip.sb:2096',
+	'malaysia.com:8443#官方优选域名',
+	'www.gov.ua:2053#官方优选域名',
+        'www.whoer.net:2083#官方优选域名',
+	'www.visa.com.hk:2087#官方优选域名',
+	'www.visa.com.tw:2096#官方优选域名',
+	'www.visa.co.jp:8443#官方优选域名',
+	'www.visakorea.com:8443#官方优选域名',
+	'www.gco.gov.qa:8443#官方优选域名',
+	'www.gov.se:8443#官方优选域名',
+	'fbi.gov:8443#官方优选域名',
 ];
 
 let sub = ''; 
