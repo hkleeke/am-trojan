@@ -35,7 +35,7 @@ let subconfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/
 let subProtocol = 'https';
 let RproxyIP = 'false';
 
-let addressesapi = ['https://raw.githubusercontent.com/ansoncloud8/am-tunnel/dev/ipv4.txt'];
+let addressesapi = ['https://raw.githubusercontent.com/ansoncloud8/am-tunnel/dev/ipv4.txt','https://addressesapi.090227.xyz/ct','https://addressesapi.090227.xyz/cmcc','https://addressesapi.090227.xyz/cmcc-ipv6','https://addressesapi.090227.xyz/CloudFlareYes','https://ipdb.api.030101.xyz/?type=bestproxy&country=true','https://ipdb.api.030101.xyz/?type=bestcf&country=true'];
 let addressescsv = [];
 let DLS = 8;
 
